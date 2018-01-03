@@ -1,5 +1,6 @@
 # ToDo
 
+* http://www.HackerRank.com
 * HTTP Fundamentals by Scott Allen - Pluralsight
 * David Morin-Probability for the Enthusiastic Beginner - Book
 * CQRS - http://cqrs.nu/tutorial/cs/01-design
