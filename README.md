@@ -4,6 +4,7 @@
 * https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1
 * https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655/ref=sr_1_2
 * https://steeltoe.io/
+* https://www.linkedin.com/in/kurlak/
 * HTTP Fundamentals by Scott Allen - Pluralsight
 * David Morin-Probability for the Enthusiastic Beginner - Book
 * CQRS - http://cqrs.nu/tutorial/cs/01-design
