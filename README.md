@@ -1,5 +1,7 @@
 # ToDo
 
+* https://wiki.mozilla.org/Security/Guidelines/Web_Security
+* https://jvehent.github.io/continuous-security-talk/#/22
 * https://careercup.firsthand.co/search
 * https://leetcode.com/
 * http://www.HackerRank.com
