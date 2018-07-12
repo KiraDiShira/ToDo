@@ -1,5 +1,6 @@
 # ToDo
 
+* https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8
 * https://wiki.mozilla.org/Security/Guidelines/Web_Security
 * https://jvehent.github.io/continuous-security-talk/#/22
 * https://careercup.firsthand.co/search
