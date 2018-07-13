@@ -1,5 +1,6 @@
 # ToDo
 
+* https://www.hiredintech.com/
 * https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
 * https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8
 * https://wiki.mozilla.org/Security/Guidelines/Web_Security
