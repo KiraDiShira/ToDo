@@ -1,5 +1,6 @@
 # ToDo
 
+* https://github.com/Solido/awesome-flutter
 * https://github.com/iampawan/FlutterExampleApps
 * https://github.com/andreis/interview#contents
 * https://www.hiredintech.com/
